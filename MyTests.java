@@ -4,7 +4,7 @@ import expression.exceptions.ExpressionException;
 import expression.exceptions.ExpressionParser;
 import expression.exceptions.OverflowException;
 import expression.exceptions.ParserException;
-import expression.operations.TripleExpression;
+import expression.operations.*;
 
 import java.util.Random;
 

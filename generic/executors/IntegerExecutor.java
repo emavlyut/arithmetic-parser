@@ -1,7 +1,5 @@
 package expression.generic.executors;
 
-import myBase.StringComparator;
-
 import static expression.exceptions.CheckedMultiply.checkOverflowMultiply;
 
 public class IntegerExecutor extends AbstractExecutor<Integer> {

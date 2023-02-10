@@ -1,7 +1,7 @@
 package expression.exceptions;
 
+import expression.generic.executors.StringComparator;
 import expression.operations.*;
-import myBase.StringComparator;
 
 import java.util.Map;
 

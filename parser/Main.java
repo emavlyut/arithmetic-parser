@@ -1,6 +1,6 @@
 package expression.parser;
 
-import expression.TripleExpression;
+import expression.operations.TripleExpression;
 import expression.exceptions.ExpressionParser;
 import expression.exceptions.ParserException;
 //import static expression.parser.ExpressionParser.classes;
